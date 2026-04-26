@@ -2,11 +2,11 @@
 
 ## Python System with SQLite
 
-## 📌 Overview
+##  Overview
 This project is a Python-based Government Management System designed to manage projects and schemes under the CM Punjab initiative.  
 
 
-## 🎯 Objectives
+## Objectives
 - Perform CRUD operations using SQLite
 - Manage government Projects and Schemes
 - Generate simple reports (e.g., total budget)
